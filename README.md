@@ -1,2 +1,2 @@
-# Universal-Translator-RNAtoPro
+# Universal-Translator
 Universal Translator
